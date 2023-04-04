@@ -19,10 +19,9 @@ The cleaned data is then ready for visualization in Tableau.
 
 The visualizations created in Tableau explore the relationships between movie genre, MPAA rating, and release year with their respective gross earnings. 
 
-The visualizations include:
+The visualizations:
 
-- A bar chart showing the total gross earnings by movie genre
-- A line chart showing the inflation-adjusted gross earnings over time by movie release year
+<iframe seamless frameborder="0" src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DisneyMovies_16805966484460&#47;Dashboard1&#47;1_rss.png" width="800" height="600"></iframe>
 
 These visualizations provide insights into the Disney movies data and can help inform business decisions related to movie production and marketing.
 
