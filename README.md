@@ -17,14 +17,12 @@ The cleaned data is then ready for visualization in Tableau.
 
 ## Visualization
 
-The `disney_movies.twbx` file contains various charts and visualizations created in Tableau to explore the relationships between movie genre, MPAA rating, and release year with their respective gross earnings. 
+The visualizations created in Tableau explore the relationships between movie genre, MPAA rating, and release year with their respective gross earnings. 
 
 The visualizations include:
 
 - A bar chart showing the total gross earnings by movie genre
-- A stacked bar chart showing the gross earnings by movie genre and MPAA rating
 - A line chart showing the inflation-adjusted gross earnings over time by movie release year
-- A heat map showing the total gross earnings by movie release year and month
 
 These visualizations provide insights into the Disney movies data and can help inform business decisions related to movie production and marketing.
 
